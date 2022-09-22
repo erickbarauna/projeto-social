@@ -13,13 +13,12 @@ html, body {
 }
 
 body {
-    background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
+    background: url(../imagens/fundo-madeira.jpg) top center no-repeat fixed;
     background-size: cover;
-    background-attachment: fixed;
 }
 
 main {
-    height: 100vh;
+    height: 97vh;
     position: relative;
 }
 
@@ -44,6 +43,7 @@ iframe#tela {
 
 section#redes-sociais {
     text-align: right;
+    padding-right: 15px;
 }
 
 section#redes-sociais > a > img {
@@ -57,4 +57,10 @@ section#redes-sociais > a > img {
 section#redes-sociais img:hover{
     border: 2px dashed rgba(255, 255, 255, 0.733);
     transition: border .16s;
+}
+
+p {
+    color: white;
+    font-size: larger;
+    padding: 25px 0px 10px 0px;
 }
