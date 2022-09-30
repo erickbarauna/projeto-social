@@ -63,7 +63,7 @@ section#redes-sociais img:hover{
 p {
     color: white;
     font-size: larger;
-    padding: 25px 0px 10px 0px;
+    padding: 25px 10px 10px 0px;
 }
 
 @media (max-width: 600px) {
@@ -144,5 +144,9 @@ p {
 
     .menu-section.on section#redes-sociais > a {
         transition-duration: 0.5s;
+    }
+
+    section#redes-sociais > p {
+        padding-right: 0px;
     }
 }
