@@ -9,10 +9,6 @@ https://erickbarauna.github.io/projeto-social/
   <div align="center">
   
   ![print-projeto-social-11 1](https://user-images.githubusercontent.com/98670029/193426629-ed153a2f-49ff-4d9e-981b-2739f58db601.png)
- 
-  ![print-projeto-social-2 1](https://user-images.githubusercontent.com/98670029/193426430-fa71fbaa-3895-4052-a81b-40b0e0b65602.png)
-  
-  ![print-projeto-social-3 1](https://user-images.githubusercontent.com/98670029/193426431-75e63356-e320-4f2d-be55-4782e7c8f7a9.png)
   
   </div>
   
