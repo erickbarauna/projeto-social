@@ -1,4 +1,4 @@
-# !(https://cdn-icons-png.flaticon.com/128/4151/4151857.png) Projeto Social
+# ![smartphone](https://user-images.githubusercontent.com/98670029/193427121-2bc0d0a1-91df-4c1f-8dd8-18a3bfb95915.png) Projeto Social
  Projeto de Redes Sociais feito no módulo 4 do curso de HTML e CSS so Curso em Vídeo. 
  
  ## Descrição
@@ -15,6 +15,7 @@
   
   </div>
   
+
 
 
 
