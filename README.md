@@ -1,4 +1,4 @@
-# Projeto Social
+# !(https://cdn-icons-png.flaticon.com/128/4151/4151857.png)Projeto Social
  Projeto de Redes Sociais feito no módulo 4 do curso de HTML e CSS so Curso em Vídeo. 
  
  ## Descrição
